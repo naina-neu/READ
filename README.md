@@ -49,19 +49,19 @@ Default Dashboard is being displayed on entering the Shopify account. Make sure 
 
 #### Step 4
 
-Click on the (...) beside the Customize button, to create a product page. Click on the edit code highlighted in the image below
+Click on the (...) beside the Customize button, to create a Product template page. Click on the 'Edit code' highlighted in the image below
 
 ![Alt text](/images/product/Edit_code_menu_step4.png?raw=true "Optional Title")
 
 #### Step 5
 
-On clicking on the edit code, a default dashboard is displayed. Click on the Add new template to create the product page.
+On clicking on the 'Edit code' button, a default dashboard is displayed. Click on the Add new template to create the product page.
 
 ![Alt text](/images/product/Edit_Code_dashboard_display_step5.png?raw=true "Optional Title")
 
 #### Step 6
 
-Popup of Add new template is been generated.
+Popup of Add new template is been displayed. 
 6.1 Template type - Select product
 6.2 Select liquid file
 6.3 File name - name the file as per your preference
@@ -77,7 +77,7 @@ Default product.theme_profile.liquid template is been created. This page contain
 
 #### Step 8
 
-Front-end code git URL - https://github.com/changing-the-present/pfh-editable-profiles.
+Front-end code git URL - https://github.com/changing-the-present/pfh-editable-profiles/blob/main/frontend/profile_textarea.html 
 Copy the profile_textarea.html (code in the above git url) code to the .liquid file that is created.
 
 ![Alt text](/images/product/Edit_Code_product_code_git_step8.png?raw=true "Optional Title")
@@ -89,25 +89,25 @@ Make sure you save the code and exit the .liquid page. The product theme templat
 ![Alt text](/images/product/Edit_Code_exit_step9.png?raw=true "Optional Title")
 
 #### Step 10
-
-Click on the Product in the menu, then click on the Add Product to create a product (profile page as per our project)
+'
+Click on the 'Product' on the left menu, then click on the 'Add Product' to create a product (profile page as per our project)
 
 ![Alt text](/images/product/Default_Product_display_step10.png?raw=true "Optional Title")
 
 #### Step 11
 
-Details of the product need to be entered to create a product page. Make sure you enter Title, which will be the name of the product. Also select the theme template, which is the name of the product. liquid which was created in step 6. Click on save.
+Details of the product need to be entered to create a product page. Make sure you enter Title, which will be displayed as the name of the product. Also select the theme template 'theme_profile', which is the name of the product.theme_profile.liquid which was created in step 6. Click on save.
 
 ![Alt text](/images/product/Product_theme_selection_step11.jpg "Optional Title")
 
 #### Step 12
 
-After the creation of the product, make sure your product name(profile name) is listed in the product listing. You can click on preview eye icon to preview the product.
+After the creation of the product, make sure your product name(profile name) is listed in the product listing. You can click on preview eye icon to preview on the Online Store.
 
 ![Alt text](/images/product/Emma_Will_Product_display_step12.png?raw=true "Optional Title")
 
 #### Step 13
 
-Profile page is displayed
+Below image shows default Profile page being displayed
 
 ![Alt text](/images/product/Emma_will_product_layout_step13.jpg?raw=true "Optional Title")
