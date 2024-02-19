@@ -37,7 +37,7 @@ Login to Shopify account - https://www.shopify.com/login
 
 #### Step 2
 
-Default PFH-clone is displayed, since I am added to the project
+Default PFH-clone is displayed, since user is been added to the project
 
 ![Alt text](/images/product/login_selection_step2.png?raw=true "Optional Title")
 
