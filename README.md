@@ -27,7 +27,11 @@ CSS files in the "assets" directory handle store styling. Customize styles in "m
 
 The "assets" directory may include custom JS files. Customize JavaScript in "main.js".
 
-## Registration of the Product form creation in Shopify (Form User profile creation as per condition check of customer ID and order ID)
+## Registration of the Product form creation in Shopify
+
+#### Overview
+
+This guide provides step-by-step instructions for creating a product registration form in Shopify, including condition checks based on customer ID and order ID.
 
 #### Step 1 - Login to Shopify
 
@@ -37,7 +41,7 @@ Login to Shopify account - https://www.shopify.com/login
 
 #### Step 2 - Dashboard Selection
 
-Default PFH-clone is displayed, since user is been added to the project
+Upon login, the default PFH-clone is displayed, confirming the user's inclusion in the project.
 
 ![Alt text](/images/registeration/login_selection_step2.png?raw=true "Optional Title")
 
@@ -45,7 +49,7 @@ Default PFH-clone is displayed, since user is been added to the project
 
 - Default Dashboard is being displayed on entering the Shopify account.
 - Ensure the "profilesforhumanity-org-theme-exp" theme is highlighted in the Online Store theme selection.
-- This is the theme of the project, is highlighted in the image below.
+- Theme of the project, is highlighted in the image below.
 
 ![Alt text](/images/registeration/Online_Store_theme_selection_step3.png?raw=true "Optional Title")
 
@@ -55,13 +59,13 @@ Click on the (...) beside the Customize button, to create a Registration of the 
 
 ![Alt text](/images/registeration/Edit_code_menu_step4.png?raw=true "Optional Title")
 
-#### Step 5
+#### Step 5 - Navigate to Collection Template (Product Registeration Form)
 
-Click on the section in the Menu, and select the file name product-template.liquid. Default product-template code is contained in the file.
+Navigate to the section in the Menu, and select the file name product-template.liquid. Default product-template code is contained in the file.
 
 ![Alt text](/images/registeration/product_registeration_code_display_step5.png?raw=true "Optional Title")
 
-#### Step 6
+#### Step 6 - Front-end Code
 
 Front-end code git URL - https://github.com/changing-the-present/pfh-editable-profiles/blob/main/frontend/product-template.liquid
 
@@ -75,21 +79,21 @@ The listing of Registration Product Collection is displayed in Shopify Collectio
 
 ![Alt text](/images/registeration/Collection_listing_step7.png?raw=true "Optional Title")
 
-#### Step 8
+#### Step 8 - Creation Collection
 
 Creation Registration Product Collection through Shopify admin portal
 
 ![Alt text](/images/registeration/collection_listing_step8.pdf?raw=true "Optional Title")
 
-#### Step 9
+#### Step 9 - Preview
 
 Preview Registration Product Collection through online store click on the any of the listing collection.
 
 ![Alt text](/images/registeration/Step9.png?raw=true "Optional Title")
 
-#### Step 10
+#### Step 10 - Product Registration Form
 
-The registration of the product collection form.
+The registration of the product collection form is displayed
 
 ![Alt text](/images/registeration/Step10.png?raw=true "Optional Title")
 
