@@ -93,7 +93,7 @@ The registration of the product collection form.
 
 ![Alt text](/images/registeration/Step10.png?raw=true "Optional Title")
 
-### Product Creation in Shopify - (User Profile)
+## Product Creation in Shopify - (User Profile)
 
 #### Step 1 - Login to Shopify
 
