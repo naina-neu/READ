@@ -67,17 +67,17 @@ Navigate to the section in the Menu, and select the file name product-template.l
 
 #### Step 6 - Front-end Code
 
-Make sure you 'save' the code and 'exit' the product-template.liquid page.
-
-![Alt text](/images/registeration/step.png?raw=true "Optional Title")
-
-#### Step 7 - Front-end Code
-
 Front-end code git URL - https://github.com/changing-the-present/pfh-editable-profiles/blob/main/frontend/product-template.liquid
 
 Copy the product-template.liquid in the above git url to the product-template.liquid file into the shopify.
 
 ![Alt text](/images/registeration/product_template_liquid_gitcode_step6.png?raw=true "Optional Title")
+
+#### Step 7 - Front-end Code
+
+Make sure you 'save' the code and 'exit' the product-template.liquid page.
+
+![Alt text](/images/registeration/step.png?raw=true "Optional Title")
 
 #### Step 8
 
