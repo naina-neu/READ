@@ -95,7 +95,7 @@ Creation Registration Product Collection through Shopify admin portal
 
 - Preview Registration Product Collection through 'Online Store'
 
-![Alt text](/images/registeration/Step2.png?raw=true "Optional Title")
+![Alt text](/images/registeration/step2.png?raw=true "Optional Title")
 
 - Click on Registration Product Collection on the top Menu in the Preview page
 
