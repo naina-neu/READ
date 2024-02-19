@@ -87,7 +87,7 @@ Click on the Product in the menu, then click on the Add Product to create a prod
 Step 11
 Details of the product need to be entered to create a product page. Make sure you enter Title, which will be the name of the product. Also select the theme template, which is the name of the product. liquid which was created in step 6. Click on save.
 
-[embed](/images/product/http://example.com/file.pdf)[/embed]
+![Alt text](/images/product/Product_theme_selection_step11.jpg "Optional Title")
 
 Step 12
 After the creation of the product, make sure your product name(profile name) is listed in the product listing. You can click on preview eye icon to preview the product.
@@ -97,4 +97,4 @@ After the creation of the product, make sure your product name(profile name) is 
 Step 13
 Profile page is displayed
 
-[embed](/images/product/Emma_will_product_layout_step13.pdf)[/embed]
+![Alt text](/images/product/Emma_will_product_layout_step13.jpg?raw=true "Optional Title")
