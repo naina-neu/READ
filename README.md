@@ -89,7 +89,7 @@ Creation and listing of Registration Product Collection is displayed in Shopify 
 
 Creation Registration Product Collection through Shopify admin portal
 
-![Alt text](/images/registeration/collection_listing_step8.pdf?raw=true "Optional Title")
+![Alt text](/images/registeration/collection_listing_step8-1.jpg?raw=true "Optional Title")
 
 #### Step 10 - Preview
 
