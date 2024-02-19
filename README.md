@@ -67,31 +67,37 @@ Navigate to the section in the Menu, and select the file name product-template.l
 
 #### Step 6 - Front-end Code
 
+Make sure you 'save' the code and 'exit' the product-template.liquid page.
+
+![Alt text](/images/registeration/step.png?raw=true "Optional Title")
+
+#### Step 7 - Front-end Code
+
 Front-end code git URL - https://github.com/changing-the-present/pfh-editable-profiles/blob/main/frontend/product-template.liquid
 
 Copy the product-template.liquid in the above git url to the product-template.liquid file into the shopify.
 
 ![Alt text](/images/registeration/product_template_liquid_gitcode_step6.png?raw=true "Optional Title")
 
-#### Step 7
+#### Step 8
 
 The listing of Registration Product Collection is displayed in Shopify Collections. Select ctp-clone-registration product
 
 ![Alt text](/images/registeration/Collection_listing_step7.png?raw=true "Optional Title")
 
-#### Step 8 - Creation Collection
+#### Step 9 - Creation Collection
 
 Creation Registration Product Collection through Shopify admin portal
 
 ![Alt text](/images/registeration/collection_listing_step8.pdf?raw=true "Optional Title")
 
-#### Step 9 - Preview
+#### Step 10 - Preview
 
 Preview Registration Product Collection through online store click on the any of the listing collection.
 
 ![Alt text](/images/registeration/Step9.png?raw=true "Optional Title")
 
-#### Step 10 - Product Registration Form
+#### Step 11 - Product Registration Form
 
 The registration of the product collection form is displayed
 
