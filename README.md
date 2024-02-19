@@ -27,7 +27,7 @@ CSS: The assets directory contains CSS files for styling the store. Customize st
 
 JavaScript: The assets directory may include custom JS files. Customize javacript in main.js.
 
-## Product Creation in Shopify - (Profile)
+### Product Creation in Shopify - (Profile)
 
 #### Step 1
 
