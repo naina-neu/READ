@@ -27,7 +27,7 @@ CSS files in the "assets" directory handle store styling. Customize styles in "m
 
 The "assets" directory may include custom JS files. Customize JavaScript in "main.js".
 
-### ---------------------------- Registration of the Product form creation in Shopify (Form User profile creation as per condition check of customer ID and order ID) ----------------------------
+### -----Registration of the Product form creation in Shopify (Form User profile creation as per condition check of customer ID and order ID) -----
 
 #### Step 1 - Login to Shopify
 
