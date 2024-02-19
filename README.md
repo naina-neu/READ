@@ -1,4 +1,4 @@
-# Shopify Frontend Code
+# Shopify Frontend
 
 ## Overview
 
