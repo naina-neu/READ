@@ -24,5 +24,11 @@ CSS: The assets directory contains CSS files for styling the store. Customize st
 ##### JavaScript
 JavaScript: The assets directory may include custom JS files. Customize javacript in main.js.
 
-![Alt text](/frontend/images/image1.jpg?raw=true "Optional Title")
+
+## Product Creation in Shopify - (Profile)
+
+Step 1 - 
+Login to Shopify account - https://www.shopify.com/login
+
+![Alt text](/images/product/login_step1.png?raw=true "Optional Title")
 
