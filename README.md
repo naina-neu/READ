@@ -81,7 +81,7 @@ Make sure you 'save' the code and 'exit' the product-template.liquid page.
 
 #### Step 8
 
-The listing of Registration Product Collection is displayed in Shopify Collections. Select ctp-clone-registration product
+Creation and listing of Registration Product Collection is displayed in Shopify 'Collections' tab section. Default if no collection will be displayed. User can create collections by clicking on 'Create Collection' button on thr right top menu.
 
 ![Alt text](/images/registeration/Collection_listing_step7.png?raw=true "Optional Title")
 
@@ -93,7 +93,7 @@ Creation Registration Product Collection through Shopify admin portal
 
 #### Step 10 - Preview
 
-Preview Registration Product Collection through online store click on the any of the listing collection.
+Preview Registration Product Collection through 'Online Store' click on the any of the listing collection.
 
 ![Alt text](/images/registeration/Step9.png?raw=true "Optional Title")
 
